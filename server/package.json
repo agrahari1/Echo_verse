@@ -1,0 +1,18 @@
+{
+  "dependencies": {
+    "bcrypt": "^5.1.1",
+    "crypto": "^1.0.1",
+    "jsonwebtoken": "^9.0.2",
+    "mongoose": "^8.2.0",
+    "nodemon": "^3.1.0",
+    "yarn": "^1.22.21"
+  },
+  "scripts": {
+    "start": "nodemon index.js"
+  },
+  "name": "server",
+  "author": "Prashant",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT"
+}
